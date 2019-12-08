@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: TestPulsarWebservice
+
+server:
+  port: 8085
+
+pulsar:
+  defaultHost: pulsar://localhost:6650

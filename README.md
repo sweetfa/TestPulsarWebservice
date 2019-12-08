@@ -1,0 +1,2 @@
+# Web Service to Allow Web Service interface to Apache Pulsar
+This module is designed to provide a simple web interface to allow a test client, such as Postman, or SoapUI to send messages to an Apache Pulsar instance.
